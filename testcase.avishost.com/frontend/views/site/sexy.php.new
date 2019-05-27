@@ -1,0 +1,13 @@
+<?php
+
+
+
+?>
+
+<input class="tx" />
+<button class="add_kir" > </button>
+<input type="submit" value="more kir" />
+
+please add more kir to page by clicking above button
+
+

@@ -1,0 +1,61 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 11, 2017, 4:17:42 PM
+    Author     : kiamoz
+*/
+@font-face {
+    font-family: 'yekan';
+    src: url(web_Yekan.woff);
+    src: url(web_Yekan.woff) format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+.main-content > p:last-of-type {
+    display: none;
+}
+h1,h2,h3,h4,.nav li a , div, a  , label , td , tr , small , input , textarea , option , select , button{
+    font-family: "yekan" !important;
+    text-align: right;
+}
+form ,table{
+    direction: rtl;
+}
+.col-md-6,.col-sm-6 {
+    float: right !important;
+}
+
+div#Primary_Sidebar-Already_Registered-Already_Registered_Heading {
+    text-align: justify;
+    direction: rtl;
+}
+.footer{
+    color: #b9b9b9;
+}
+
+.tile .icon {
+    left: 18px;
+    right: unset !important;
+}
+.pull-right {
+    float: left !important;
+}
+
+li#Primary_Navbar-Home {
+    float: right !important;
+}
+section#main-menu,.navbar-main{
+    background: #443b97 !important;
+}
+
+p {
+    text-align: right;
+    direction: rtl !important;
+}
+
+li{
+    list-style: none;
+}

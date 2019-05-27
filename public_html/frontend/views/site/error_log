@@ -1,0 +1,2 @@
+[26-Feb-2017 15:35:03 UTC] PHP Fatal error:  Using $this when not in object context in /home/avishost/public_html/frontend/views/site/index.php on line 6
+[27-Feb-2017 08:56:01 UTC] PHP Fatal error:  Using $this when not in object context in /home/avishost/public_html/frontend/views/site/index.php on line 6
